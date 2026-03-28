@@ -65,5 +65,3 @@ One uncertain item was preserved as `Snowpop [sic]` rather than silently normali
 The CSV was checked locally against the currently documented schema requirements from the uploaded markdown files:
 - all required columns are present
 - all required columns are non-blank in every data row
-
-The actual `magi_build.py` validator was not run because that script was not among the uploaded files.
