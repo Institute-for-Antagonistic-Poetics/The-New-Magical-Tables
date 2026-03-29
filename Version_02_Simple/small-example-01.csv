@@ -1,0 +1,35 @@
+entity,glyph,category,value,system_name,notes
+Fire,🜂,Color,Glowing Orange Scarlet,King Scale,Atziluth Scale
+Water,🜄,Color,Deep Blue,King Scale,Atziluth Scale
+Air,🜁,Color,Bright Pale Yellow,King Scale,Atziluth Scale
+Earth,🜃,Color,Citrine Russet Olive Black,King Scale,Atziluth Scale
+Fire,🜂,Color,Vermillion,Queen Scale,Briah Scale
+Water,🜄,Color,Sea-green,Queen Scale,Briah Scale
+Air,🜁,Color,Sky Blue,Queen Scale,Briah Scale
+Earth,🜃,Color,Black,Queen Scale,Briah Scale
+Saturn,♄,Color,Indigo,King Scale,World of Atziluth
+Jupiter,♃,Color,Deep Violet,King Scale,World of Atziluth
+Mars,♂,Color,Scarlet,King Scale,World of Atziluth
+Sun,☉,Color,Orange,King Scale,World of Atziluth
+Venus,♀,Color,Emerald Green,King Scale,World of Atziluth
+Mercury,☿,Color,Yellow,King Scale,World of Atziluth
+Moon,☽,Color,Blue,King Scale,World of Atziluth
+Saturn,♄,Color,Black,Queen Scale,World of Briah
+Jupiter,♃,Color,Blue,Queen Scale,World of Briah
+Mars,♂,Color,Red,Queen Scale,World of Briah
+Sun,☉,Color,Yellow,Queen Scale,World of Briah
+Venus,♀,Color,Sky Blue,Queen Scale,World of Briah
+Mercury,☿,Color,Purple,Queen Scale,World of Briah
+Moon,☽,Color,Silver,Queen Scale,World of Briah
+Aries,♈,Color,Scarlet,King Scale,Fire - Cardinal
+Taurus,♉,Color,Red-orange,King Scale,Earth - Fixed
+Gemini,♊,Color,Orange,King Scale,Air - Mutable
+Cancer,♋,Color,Amber,King Scale,Water - Cardinal
+Leo,♌,Color,Yellow,King Scale,Fire - Fixed
+Virgo,♍,Color,Yellow-green,King Scale,Earth - Mutable
+Libra,♎,Color,Emerald,King Scale,Air - Cardinal
+Scorpio,♏,Color,Green-blue,King Scale,Water - Fixed
+Sagittarius,♐,Color,Blue,King Scale,Fire - Mutable
+Capricorn,♑,Color,Indigo,King Scale,Earth - Cardinal
+Aquarius,♒,Color,Violet,King Scale,Air - Fixed
+Pisces,♓,Color,Crimson,King Scale,Water - Mutable
