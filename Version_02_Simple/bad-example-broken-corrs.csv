@@ -1,0 +1,7 @@
+entity,glyph,category,value,system_name,notes
+Mars,♀,Color,Scarlet,777,WRONG GLYPH: Used Venus symbol for Mars
+Sun,☉,Vibes,Golden,Agrippa,UNKNOWN CATEGORY: 'Vibes' is not canonical
+,☽,Metal,Silver,777,MISSING ENTITY: Row is missing the name 'Moon'
+Jupiter,♃,Color,,777,MISSING VALUE: No color provided
+Saturn,S,Color,Black,777,NOT A GLYPH: Used the letter 'S' instead of ♄
+Earth,🜄,Element,Salt,Alchemy,WRONG GLYPH: Used Water symbol for Earth
